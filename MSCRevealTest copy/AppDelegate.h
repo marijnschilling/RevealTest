@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
+<<<<<<< Updated upstream
+@class ViewController;
+=======
 @class RootViewController;
+>>>>>>> Stashed changes
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

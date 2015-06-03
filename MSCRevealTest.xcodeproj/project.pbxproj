@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D197B392B94C925A891C1712 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D197B63FFF2C5CF75C51EDEB /* RootViewController.m */; };
 		D197BF87FE802CC05927BA8E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D197B7D14D2A69FAEFC71EB0 /* Localizable.strings */; };
+		D197BF882ED98354540902E2 /* UIColor+Reveal.m in Sources */ = {isa = PBXBuildFile; fileRef = D197BDB0740717DB3F46FAE6 /* UIColor+Reveal.m */; };
 		E6B675931B1F1D4400F6F680 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E6B675921B1F1D4400F6F680 /* main.m */; };
 		E6B675961B1F1D4400F6F680 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E6B675951B1F1D4400F6F680 /* AppDelegate.m */; };
 		E6B675991B1F1D4400F6F680 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E6B675981B1F1D4400F6F680 /* ViewController.m */; };
@@ -31,7 +32,9 @@
 /* Begin PBXFileReference section */
 		D197B04ECEA83EB2974C98DA /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		D197B63FFF2C5CF75C51EDEB /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		D197B652BF887014BDD4BC52 /* UIColor+Reveal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+Reveal.h"; path = "MSCRevealTest copy/UIColor+Reveal.h"; sourceTree = SOURCE_ROOT; };
 		D197B7D14D2A69FAEFC71EB0 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		D197BDB0740717DB3F46FAE6 /* UIColor+Reveal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+Reveal.m"; path = "MSCRevealTest copy/UIColor+Reveal.m"; sourceTree = SOURCE_ROOT; };
 		E6B6758D1B1F1D4400F6F680 /* MSCRevealTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MSCRevealTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6B675911B1F1D4400F6F680 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E6B675921B1F1D4400F6F680 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -97,6 +100,8 @@
 				D197B63FFF2C5CF75C51EDEB /* RootViewController.m */,
 				D197B04ECEA83EB2974C98DA /* RootViewController.h */,
 				D197B7D14D2A69FAEFC71EB0 /* Localizable.strings */,
+				D197BDB0740717DB3F46FAE6 /* UIColor+Reveal.m */,
+				D197B652BF887014BDD4BC52 /* UIColor+Reveal.h */,
 			);
 			path = MSCRevealTest;
 			sourceTree = "<group>";
@@ -232,6 +237,7 @@
 				E6B675961B1F1D4400F6F680 /* AppDelegate.m in Sources */,
 				E6B675931B1F1D4400F6F680 /* main.m in Sources */,
 				D197B392B94C925A891C1712 /* RootViewController.m in Sources */,
+				D197BF882ED98354540902E2 /* UIColor+Reveal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,17 +7,37 @@
 #import "ViewController.h"
 
 
+<<<<<<< Updated upstream
 CGFloat buttonMargin;
+=======
+int buttonMargin;
+>>>>>>> Stashed changes
 CGFloat buttonWidth;
 
 @interface RootViewController ()
-
 @property(nonatomic, strong) NSMutableArray *colorArray;
 @end
 
 @implementation RootViewController
 
+<<<<<<< Updated upstream
+- (void)viewDidLoad {
+    [super viewDidLoad];
 
+    buttonMargin = 20;
+    buttonWidth = ([UIScreen mainScreen].bounds.size.width - 4*buttonMargin)/3;
+
+    self.title = [NSString localizedStringWithFormat:NSLocalizedString(@"COLOR_PICKER", nil)];
+    
+    self.colorArray = [NSMutableArray array];
+
+    [self setButtons];
+
+}
+
+- (void)setButtons {
+
+=======
 - (void)loadView {
     [super loadView];
 
@@ -37,6 +57,7 @@ CGFloat buttonWidth;
 
 
 - (void)createButtonArray {
+>>>>>>> Stashed changes
     for (int column = 0; column < 3; column++) {
         for (int row = 0; row < 3; row++) {
 
@@ -54,22 +75,31 @@ CGFloat buttonWidth;
 
         }
     }
+<<<<<<< Updated upstream
 
 }
 
-
 - (void)colorButtonClicked:(UIButton *)colorButtonClicked {
 
+
+=======
+}
+
+- (void)colorButtonClicked:(UIButton *)colorButtonClicked {
+>>>>>>> Stashed changes
     [self.colorArray addObject:colorButtonClicked.backgroundColor];
 
     if(self.colorArray.count >= 2){
 
-        ViewController *viewController = [[ViewController alloc] initWithColorArray:self.colorArray];
+        ViewController *videoPlayViewController = [[ViewController alloc] initWithColorArray:self.colorArray];
 
-        [self.navigationController pushViewController:viewController animated:YES];
+        [self.navigationController pushViewController:videoPlayViewController animated:YES];
 
     }
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 }
 
 

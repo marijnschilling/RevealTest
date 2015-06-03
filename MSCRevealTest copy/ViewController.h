@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ViewController.h
 //  MSCRevealTest
 //
 //  Created by Marijn Schilling on 03/06/15.
@@ -8,12 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@class RootViewController;
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
+@interface ViewController : UIViewController
 
 
+- (instancetype)initWithColorArray:(NSArray *)colorArray;
 @end
 

@@ -7,11 +7,19 @@
 //
 
 #import "AppDelegate.h"
+<<<<<<< Updated upstream
+#import "ViewController.h"
+=======
+>>>>>>> Stashed changes
 #import "RootViewController.h"
 
 @interface AppDelegate ()
 
+<<<<<<< Updated upstream
+@property(nonatomic, strong) ViewController *rootViewController;
+=======
 @property(nonatomic, strong) RootViewController *rootViewController;
+>>>>>>> Stashed changes
 @end
 
 @implementation AppDelegate
