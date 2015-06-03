@@ -10,13 +10,22 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) UIScrollView *scrollView;
+
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+
+    [self.view setBackgroundColor:[UIColor whiteColor]];
+
+    self.scrollView = [[UIScrollView alloc] initWithFrame:[UIScreen mainScreen].bounds];
+    [self.scrollView setBackgroundColor:[UIColor blackColor]];
+
+    [self.view addSubview:self.scrollView];
+
 }
 
 - (void)didReceiveMemoryWarning {
