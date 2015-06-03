@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 
 
+- (instancetype)initWithColorArray:(NSArray *)colorArray;
 @end
 

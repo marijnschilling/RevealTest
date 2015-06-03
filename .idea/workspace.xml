@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5f2b736-83a0-4369-a003-9cace1a852c6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest.xcodeproj/project.xcworkspace/xcuserdata/marijnschilling.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/MSCRevealTest.xcodeproj/project.xcworkspace/xcuserdata/marijnschilling.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest/AppDelegate.h" afterPath="$PROJECT_DIR$/MSCRevealTest/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest/AppDelegate.m" afterPath="$PROJECT_DIR$/MSCRevealTest/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest/Info.plist" afterPath="$PROJECT_DIR$/MSCRevealTest/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest/ViewController.h" afterPath="$PROJECT_DIR$/MSCRevealTest/ViewController.h" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest/ViewController.m" afterPath="$PROJECT_DIR$/MSCRevealTest/ViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MSCRevealTest.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/MSCRevealTest.xcodeproj/project.pbxproj" />
     </list>
     <ignored path="MSCRevealTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +35,64 @@
       <file leaf-file-name="AppDelegate.m" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MSCRevealTest/AppDelegate.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
+            <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="960">
+              <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+              <folding>
+                <element signature="e#143#166#0" expanded="true" />
+                <marker date="1433336649000" expanded="true" signature="351:2533" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RootViewController.m" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSCRevealTest/RootViewController.m">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="410" max-vertical-offset="1140">
+              <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+              <folding>
+                <element signature="e#102#132#0" expanded="true" />
+                <element signature="e#543#582#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NSObject.h" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/objc/NSObject.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="662" max-vertical-offset="1650">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UIView.h" pinned="false" current-in-tab="false">
+        <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8985">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Localizable.strings" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSCRevealTest/Localizable.strings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <caret line="4" column="50" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RootViewController.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MSCRevealTest/RootViewController.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -39,9 +101,11 @@
       <file leaf-file-name="ViewController.m" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MSCRevealTest/ViewController.m">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="630">
-              <caret line="20" column="101" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.2336" vertical-offset="649" max-vertical-offset="1365">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="76" selection-end-column="1" />
+              <folding>
+                <element signature="e#146#172#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -49,7 +113,7 @@
       <file leaf-file-name="ViewController.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MSCRevealTest/ViewController.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="10" column="44" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
@@ -65,6 +129,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/MSCRevealTest/ViewController.h" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/AppDelegate.m" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/RootViewController.h" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/Localizable.strings" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/UIColor+randomColor.m" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/UIColor+Reveal.m" />
+        <option value="$PROJECT_DIR$/MSCRevealTest/RootViewController.m" />
         <option value="$PROJECT_DIR$/MSCRevealTest/ViewController.m" />
       </list>
     </option>
@@ -72,6 +142,7 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
@@ -133,6 +204,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="MSCRevealTest" />
   </component>
   <component name="RunManager" selected="Application.MSCRevealTest">
     <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MSCRevealTest" TARGET_NAME="MSCRevealTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="MSCRevealTest" RUN_TARGET_NAME="MSCRevealTest" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
@@ -145,7 +218,7 @@
     <configuration default="false" name="MSCRevealTest" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS="FALSE" PROJECT_NAME="MSCRevealTest" TARGET_NAME="MSCRevealTest" CONFIG_NAME="Debug" SCHEME_NAME="MSCRevealTest" RUN_TARGET_PROJECT_NAME="MSCRevealTest" RUN_TARGET_NAME="MSCRevealTest" MAKE_ACTIVE="TRUE" WAIT_FOR="FALSE">
       <envs />
       <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
-        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+        <REVEAL_SETTINGS autoInject="true" autoInstall="true" askToEnableAutoInstall="true" />
       </EXTENSION>
       <RunnerSettings RunnerId="AppRunner" />
       <ConfigurationWrapper RunnerId="AppRunner" />
@@ -173,6 +246,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20731707" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33638212" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33638212" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -185,7 +259,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20731707" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -208,18 +281,17 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="AppleRunConfiguration">
+        <watch expression="self.scrollView.contentSize" language="ObjectiveC" />
+        <watch expression="colorButtonClicked.backgroundColor" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MSCRevealTest/AppDelegate.m">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="956">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MSCRevealTest/ViewController.h">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
@@ -228,11 +300,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MSCRevealTest/AppDelegate.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="960">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="e#143#166#0" expanded="true" />
+            <marker date="1433336649000" expanded="true" signature="351:2533" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSCRevealTest/RootViewController.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSCRevealTest/Localizable.strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8985">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include/objc/NSObject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="662" max-vertical-offset="1650">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MSCRevealTest/RootViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="410" max-vertical-offset="1140">
+          <caret line="61" column="77" selection-start-line="61" selection-start-column="77" selection-end-line="61" selection-end-column="77" />
+          <folding>
+            <element signature="e#102#132#0" expanded="true" />
+            <element signature="e#543#582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MSCRevealTest/ViewController.m">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="630">
-          <caret line="20" column="101" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.2336" vertical-offset="649" max-vertical-offset="1365">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="76" selection-end-column="1" />
+          <folding>
+            <element signature="e#146#172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
